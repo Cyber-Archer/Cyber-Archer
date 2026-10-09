@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**Cyber-Archer/Cyber-Archer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ebony Washington
 
-Here are some ideas to get you started:
+I'm building a career as an HRIS Analyst. I combine HR operations experience with growing skills in data and HR systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+- HR internship at a Seattle nonprofit, supporting hiring, compliance, and HR systems work
+- Learning SQL and Power BI to turn HR data into reports and dashboards
+- Preparing for HRIP (IHRIM) and ITIL 4 Foundation
+
+## Experience
+- Working with ADP Workforce Now, Form I-9, and E-Verify processes
+- Writing user guides, training materials, and process documentation for employees and managers
+- Background in patient access and front desk administration
+
+## Education
+- B.S. Business Administration, HR Management, Central Washington University (expected March 2028), with a data analytics minor in progress
+- A.A.S. Business Administration, Dallas College (2024)
+
+## Projects
+Coming soon:
+- HR turnover analysis in SQL (public sample data)
+- Power BI HR dashboard (synthetic data)
+- Excel HR data audit and cleanup
+
+All projects use public or synthetic data. No employer or employee information is shared here.
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/ebony-washington-7415293b2/) | Seattle, WA
