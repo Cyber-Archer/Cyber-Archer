@@ -20,7 +20,7 @@ I'm building a career as an HRIS Analyst. I combine HR operations experience wit
 
 ## Projects
 Coming soon:
-- HR turnover analysis in SQL (public sample data)
+- HR attrition analysis in SQL (IBM HR Analytics public dataset)
 - Power BI HR dashboard (synthetic data)
 - Excel HR data audit and cleanup
 
